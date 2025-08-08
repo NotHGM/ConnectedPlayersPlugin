@@ -73,4 +73,4 @@ There are currently 6 players online on HGMServers!
 Special thanks to:
 
 - [RaidMax](https://github.com/RaidMax) for creating IW4MAdmin 🛠️
-- [Amos](https://github.com/ayymoss) for beining amos 💡
+- [Amos](https://github.com/ayymoss) for being amos 💡
